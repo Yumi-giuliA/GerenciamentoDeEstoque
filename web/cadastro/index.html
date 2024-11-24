@@ -1,0 +1,42 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../reset.css">
+        <link rel="stylesheet" href="../index.css">
+        <link rel="stylesheet" href="cadastro.css">
+        <link rel="stylesheet" href="../voltar.css">
+        <title>Produtos</title>
+    </head>
+    <body>       
+        <h1 class="title" style="margin-bottom: 32px">Arcane Limited Company</h1>
+        <main class="main">
+            <form name="cadastro" method="post" action="cadastroProd.jsp">
+                <div class="title-wrapper">
+                    <h2 class="title-label">Nome</h2>
+                </div>
+                <div class="input-wrapper">
+                    <input type="text" name="nome" placeholder="Insira o nome do produto" class="input"/>
+                </div>
+
+                <div class="title-wrapper margin-top">
+                    <h2 class="title-label">Marca</h2>
+                </div>
+                <div class="input-wrapper">
+                    <input type="text" name="marca" placeholder="Insira a marca do produto" class="input"/>
+                </div>
+
+                <div class="title-wrapper margin-top">
+                    <h2 class="title-label">Preço</h2>
+                </div>
+                <div class="input-wrapper">
+                    <input type="number" name="preco" placeholder="Insira o preço do produto" min="0" step="any" class="input"/>
+                </div>
+
+                <div class="input-wrapper margin-top">
+                    <button type="submit" class="send-btn">Enviar</button>
+                </div>
+            </form>
+        </main>
+    </body>
+</html>

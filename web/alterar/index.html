@@ -1,0 +1,25 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../reset.css">
+        <link rel="stylesheet" href="../index.css">
+        <link rel="stylesheet" href="alterar.css">
+        <title>Produtos</title>
+    </head>
+    <body>
+        <h1 class="title" style="margin-bottom: 32px">Arcane Limited Company</h1>
+        <main class="main">
+            <div class="title-wrapper">
+                <h1 class="title-change">Id</h1>
+            </div>
+            <form name="alt" method="post" action="altProd.jsp">
+                <div class="input-wrapper">
+                    <label for="id" class="input-label"></label>
+                    <input type="number" id="id" name="id" placeholder="Insira o número do ID" min="0" class="input" required />
+                </div>
+                <button type="submit" class="send-btn">enviar</button>
+            </form>
+        </main>
+    </body>
+</html>
