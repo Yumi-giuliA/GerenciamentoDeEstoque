@@ -1,7 +1,7 @@
 <%-- 
     Document   : consultaLista
     Created on : 21 de nov. de 2024, 16:45:24
-    Author     : gabriel, giulia, guilherme, gustavo, kamille
+    Author     : giulia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
