@@ -1,7 +1,7 @@
 <%--  
     Document   : excluirProd
     Created on : 21 de nov. de 2024, 16:05:47
-    Author     : gabriel, giulia, guilherme, gustavo, kamille
+    Author     : giulia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
