@@ -1,7 +1,7 @@
 <%-- 
     Document   : altProd
     Created on : 21 de nov. de 2024, 15:49:23
-    Author     : gabriel, giulia, guilherme, gustavo, kamille
+    Author     : giulia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
