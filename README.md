@@ -1,9 +1,9 @@
-## Gerenciamento de estoque
+## 🗃️ Gerenciamento de estoque
 
 Este projeto é um sistema de gerenciamento desenvolvido em Java, que permite realizar as principais operações de CRUD (Criar, Ler, Atualizar e Deletar) de forma simples e eficiente. 
 O sistema foi projetado para facilitar a gestão de dados e proporcionar uma experiência amigável ao usuário, por meio de uma interface web funcional e intuitiva.
 
-### Funcionalidades: 
+### 💡 Funcionalidades: 
 
 - Listar: Exibe todos os registros cadastrados de forma organizada.
 - Cadastrar: Permite adicionar novos registros ao sistema.
@@ -11,14 +11,14 @@ O sistema foi projetado para facilitar a gestão de dados e proporcionar uma exp
 - Excluir: Remove registros indesejados ou obsoletos.
 - Consultar: Realiza buscas precisas com base no ID do registro.
 
-### Modo de uso:
+### 📨 Modo de uso:
 
 - Escolha a opção desejada na página inicial.
 - Siga as instruções na tela (ex.: preencha campos ou insira o ID).
 - Confirme as ações para concluir.
 #### - Exemplo: Cadastre um produto (ex.: "Camiseta, Adidas, R$90.99"), confirme o ID do produto pela lista, consulte pelo ID para conferir, altere algum dado se necessário e, se quiser, exclua.
 
-### Instruções de criação para o banco de dados:
+### 📌 Instruções de criação para o banco de dados:
 
 CREATE DATABASE banco;
 
@@ -73,7 +73,7 @@ CREATE TABLE `produto` (
   <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Excluir.jpeg?raw=true" width="500px"/>
 </div>
 
-### Tecnologias usadas:
+### 🛠 Tecnologias e Ferramentas Utilizadas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
