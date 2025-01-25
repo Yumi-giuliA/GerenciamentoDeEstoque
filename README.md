@@ -34,43 +34,43 @@ CREATE TABLE `produto` (
 ### Tela Inicial:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/TelaInicial.jpeg?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/TelaInicial.jpeg?raw=true" width="500px"/>
 </div> 
 
 ### Lista:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Lista.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/Lista.png?raw=true" width="500px"/>
 </div>
 
 ### Cadastrar:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Cadastrar.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/Cadastrar.png?raw=true" width="500px"/>
 </div>
 
 ### Consultar e seu resultado:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Consultar.jpeg?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/Consultar.jpeg?raw=true" width="500px"/>
 </div><br>
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/ResultadoConsultar.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/ResultadoConsultar.png?raw=true" width="500px"/>
 </div>
 
 ### Alterar e seu resultado:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Editar.jpeg?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/Editar.jpeg?raw=true" width="500px"/>
 </div><br>
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/ResultadoEditar.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/ResultadoEditar.png?raw=true" width="500px"/>
 </div>
 
 ### Excluir:
 
 <div>
-  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/Excluir.jpeg?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/ProjetoJavaSite/blob/master/img/Excluir.jpeg?raw=true" width="500px"/>
 </div>
 
 ### 🛠 Tecnologias e Ferramentas Utilizadas:
